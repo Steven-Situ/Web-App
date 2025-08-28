@@ -1,0 +1,4 @@
+run the following line to enter (env)
+
+1.  (optional) Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+2. .\env\Scripts\Activate.ps1
